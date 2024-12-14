@@ -1,0 +1,12 @@
+//do upload each verb intro a struct of actor/object focus and complete/incomplete/contimplated
+//do compare verb struct to to user inputed instanced struct 
+
+
+TODO: irregular verbs
+    anak
+    loko
+    damdam
+    present (something) kilala or iharap?  could be pristina, harapin
+    sali
+    sibak - chop 
+    dinig

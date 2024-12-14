@@ -1,0 +1,70 @@
+use rand::seq::SliceRandom;
+use serde_json::from_reader;
+use std::collections::{HashMap, HashSet};
+use std::error::Error;
+use std::fs::File;
+use std::io::{self, Write};
+
+
+struct Verb {
+    
+}
+
+fn main() -> Result<(), Box<dyn Error>> {
+    // Load the dictionary from the JSON file
+    let file = File::open("data.txt")?;
+    let dictionary: HashMap<String, Vec<String>> = from_reader(file)?;
+
+    let mut rng = rand::thread_rng();
+    let mut root_words: Vec<_> = dictionary.keys().collect();
+
+    println!("Welcome to the Tagalog Conjugation Quiz Game!");
+    println!("You will be given a root word, and you need to list all the conjugations.");
+    println!("Type 'exit' at any time to quit the game.\n");
+
+    loop {
+        // Select a random root word
+        if let Some(root_word) = root_words.choose(&mut rng) {
+            let conjugations = &dictionary[*root_word];
+
+            println!("Root word: {}", root_word);
+            println!("Please enter all {} conjugations:", conjugations.len());
+
+            let mut user_conjugations = HashSet::new();
+            for i in 0..conjugations.len() {
+                print!("{}: ", i + 1);
+                io::stdout().flush()?;
+
+                let mut input = String::new();
+                io::stdin().read_line(&mut input)?;
+                let input = input.trim().to_string();
+
+                // Allow the user to exit the game
+                if input.eq_ignore_ascii_case("exit") {
+                    println!("Thanks for playing!");
+                    return Ok(());
+                }
+
+                user_conjugations.insert(input.to_lowercase());
+            }
+
+            // Check the user's answers
+            let correct_answers: HashSet<_> = conjugations.iter().map(|s| s.to_lowercase()).collect();
+
+            if correct_answers == user_conjugations {
+                println!("Great job! All answers are correct.\n");
+            } else {
+                println!("Some answers are incorrect. Here are the correct conjugations:");
+                for (i, conjugation) in conjugations.iter().enumerate() {
+                    println!("{}. {}", i + 1, conjugation);
+                }
+                println!();
+            }
+        } else {
+            println!("No root words found in the dictionary.");
+            break;
+        }
+    }
+
+    Ok(())
+}

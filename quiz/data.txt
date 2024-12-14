@@ -1,0 +1,3791 @@
+{
+  "look": [
+    "tingin",
+    "tumingin",
+    "tumitingin",
+    "titingin",
+    "tiningnan",
+    "tinitingnan",
+    "titingnan"
+  ],
+  "order (something**)": [
+    "order",
+    "nag-order",
+    "nag-oorder",
+    "mag-oorder",
+    "inorder",
+    "inoorder",
+    "oorderin"
+  ],
+  "keep (put aside)": [
+    "tabi",
+    "nagtabi",
+    "nagtatabi",
+    "magtatabi",
+    "itinabi",
+    "itinatabi",
+    "itatabi"
+  ],
+  "come": [
+    "punta",
+    "pumunta",
+    "pumupunta",
+    "pupunta",
+    "pinuntahan",
+    "pinupuntahan",
+    "pupuntahan"
+  ],
+  "take": [
+    "kuha",
+    "kumuha",
+    "kumukuha",
+    "kukuha",
+    "kinuha",
+    "kinukuha",
+    "kukuhanin"
+  ],
+  "annoy": [
+    "inis",
+    "nang-inis",
+    "nang-iinis",
+    "mang-iinis",
+    "ininis",
+    "iniinis",
+    "iinisin"
+  ],
+  "draw (picture)": [
+    "guhit",
+    "nagguhit",
+    "nagguguhit",
+    "magguguhit",
+    "ginuhit",
+    "ginuguhit",
+    "guguhitin"
+  ],
+  "build": [
+    "tayo",
+    "nagtayo",
+    "nagtatayo",
+    "magtatayo",
+    "itinayo",
+    "itinatayo",
+    "itatayo"
+  ],
+  "pout": [
+    "simangot",
+    "sumimangot",
+    "sumisimangot",
+    "sisimangot",
+    "sinimangutan",
+    "sinisimangutan",
+    "sisimangutan"
+  ],
+  "go (to a place)": [
+    "punta",
+    "pumunta",
+    "pumupunta",
+    "pupuntahan",
+    "pinuntahan",
+    "pinupuntahan",
+    "pupuntahan"
+  ],
+  "move over (something)": [
+    "usog",
+    "nag-usog",
+    "nag-uusog",
+    "mag-uusog",
+    "inusog",
+    "inuusog",
+    "iuusog"
+  ],
+  "report (news)": [
+    "balita",
+    "nagbalita",
+    "nagbabalita",
+    "magbabalita",
+    "binalita",
+    "binabalita",
+    "ibabalita"
+  ],
+  "break": [
+    "sira",
+    "sumira",
+    "sumisira",
+    "sisira",
+    "sinira",
+    "sinisira",
+    "sisirain"
+  ],
+  "choose": [
+    "pili",
+    "pumili",
+    "pumipili",
+    "pipili",
+    "pinili",
+    "pinipili",
+    "pipiliin"
+  ],
+  "attain": [
+    "kamit",
+    "nakamit",
+    "nakakamit",
+    "makakamit",
+    "nakamtan",
+    "nakakamtan",
+    "makakamtan"
+  ],
+  "collect": [
+    "ipon",
+    "nag-ipon",
+    "nag-iipon",
+    "mag-iipon",
+    "inipon",
+    "iniipon",
+    "iipunin"
+  ],
+  "hold": [
+    "hawak",
+    "humawak",
+    "humahawak",
+    "hahawak",
+    "hinawakan",
+    "hinahawakan",
+    "hahawakan"
+  ],
+  "ban": [
+    "bawal",
+    "nagbawal",
+    "nagbabawal",
+    "magbabawal",
+    "ibinawal",
+    "ibinabawal",
+    "ibabawal"
+  ],
+  "remove (clothes)": [
+    "hubad",
+    "naghubad",
+    "naghuhubad",
+    "maghuhubad",
+    "hinubad",
+    "hinuhubad",
+    "huhubarin"
+  ],
+  "say": [
+    "sabi",
+    "nagsabi",
+    "nagsasabi",
+    "magsasabi",
+    "sinabi",
+    "sinasabi",
+    "sasabihin"
+  ],
+  "tell": [
+    "sabi",
+    "nagsabi",
+    "nagsasabi",
+    "magsasabi",
+    "sinabi",
+    "sinasabi",
+    "sasabihin"
+  ],
+  "whisper": [
+    "bulong",
+    "bumulong",
+    "bumubulong",
+    "bubulong",
+    "ibinulong",
+    "ibinubulong",
+    "ibubulong"
+  ],
+  "rub (wash)": [
+    "kusot",
+    "nagkusot",
+    "nagkukusot",
+    "magkukusot",
+    "kinusot",
+    "kinukusot",
+    "kukusutin"
+  ],
+  "wipe": [
+    "punas",
+    "nagpunas",
+    "nagpupunas",
+    "magpupunas",
+    "pinunasan",
+    "pinupunasan",
+    "pupunasan"
+  ],
+  "dress (put on)": [
+    "bihis",
+    "nagbihis",
+    "nagbibihis",
+    "magbibihis",
+    "binihisan",
+    "binibihisan",
+    "bibihisan"
+  ],
+  "give": [
+    "bigay",
+    "nagbigay",
+    "nagbibigay",
+    "magbibigay",
+    "binigay",
+    "binibigay",
+    "ibibigay"
+  ],
+  "carry (on the head)": [
+    "sunong",
+    "nagsunong",
+    "nagsusunong",
+    "magsusunong",
+    "sinunong",
+    "sinusunong",
+    "susunungin"
+  ],
+  "cut (break)": [
+    "putol",
+    "pumutol",
+    "pumuputol",
+    "puputol",
+    "pinutol",
+    "pinuputol",
+    "puputulin"
+  ],
+  "fall": [
+    "hulog",
+    "nahulog",
+    "nahuhulog",
+    "mahuhulog",
+    "hinulog",
+    "hinuhulog",
+    "ihuhulog"
+  ],
+  "install": [
+    "lagay",
+    "naglagay",
+    "naglalagay",
+    "maglalagay",
+    "nilagay",
+    "nilalagay",
+    "ilalagay"
+  ],
+  "kill": [
+    "patay",
+    "pumatay",
+    "pumapatay",
+    "papatay",
+    "pinatay",
+    "pinapatay",
+    "papatayin"
+  ],
+  "put on (turn on)": [
+    "bukas",
+    "nagbukas",
+    "nagbubukas",
+    "magbubukas",
+    "binuksan",
+    "binubuksan",
+    "bubuksan"
+  ],
+  "shout (at each other)": [
+    "sigaw",
+    "nagsigawan",
+    "nagsisigawan",
+    "magsisigawan",
+    "sinigawan",
+    "sinisigawan",
+    "sisigawan"
+  ],
+  "invent": [
+    "imbento",
+    "nag-imbento",
+    "nag-iimbento",
+    "mag-imbento",
+    "inimbento",
+    "iniimbento",
+    "iimbentuhin"
+  ],
+  "sue": [
+    "habla",
+    "naghabla",
+    "naghahabla",
+    "maghahabla",
+    "hinabla",
+    "hinahabla",
+    "ihahabla"
+  ],
+  "tease": [
+    "biro",
+    "nagbiro",
+    "nagbibiro",
+    "magbibiro",
+    "biniro",
+    "binibiro",
+    "bibiruin"
+  ],
+  "yawn": [
+    "hikab",
+    "naghikab",
+    "naghihikab",
+    "maghihikab",
+    "hinikaban",
+    "hinihikaban",
+    "hihikaban"
+  ],
+  "open (by itself)": [
+    "bukas",
+    "bumukas",
+    "bumubukas",
+    "bubukas",
+    "",
+    "",
+    ""
+  ],
+  "court (romance)": [
+    "ligaw",
+    "lumigaw",
+    "lumiligaw",
+    "liligaw",
+    "niligawan",
+    "nililigawan",
+    "liligawan"
+  ],
+  "dance": [
+    "sayaw",
+    "sumayaw",
+    "sumasayaw",
+    "sasayaw",
+    "sinayaw",
+    "sinasayaw",
+    "sasayawin"
+  ],
+  "paint (on an object)": [
+    "pinta",
+    "nagpinta",
+    "nagpipinta",
+    "magpipinta",
+    "pinintahan",
+    "pinipintahan",
+    "pipintahan"
+  ],
+  "accept": [
+    "tanggap",
+    "tumanggap",
+    "tumatanggap",
+    "tatanggap",
+    "tinanggap",
+    "tinatanggap",
+    "tatanggapin"
+  ],
+  "bad (to become)": [
+    "sama",
+    "sumama",
+    "sumasama",
+    "sasama",
+    "",
+    "",
+    ""
+  ],
+  "pawn": [
+    "sanla",
+    "nagsanla",
+    "nagsasanla",
+    "magsasanla",
+    "sinanla",
+    "sinasanla",
+    "isasanla"
+  ],
+  "damage": [
+    "sira",
+    "sumira",
+    "sumisira",
+    "sisira",
+    "sinira",
+    "sinisira",
+    "sisirain"
+  ],
+  "cut (behead)": [
+    "pugot",
+    "nagpugot",
+    "nagpupugot",
+    "magpupugot",
+    "pinugot",
+    "pinupugot",
+    "pupugutan"
+  ],
+  "fill up (container)": [
+    "puno",
+    "nagpuno",
+    "nagpupuno",
+    "magpupuno",
+    "pinuno",
+    "pinupuno",
+    "pupunuin"
+  ],
+  "hide (one's self or someone)": [
+    "tago",
+    "nagtago",
+    "nagtatago",
+    "magtatago",
+    "tinaguan",
+    "tinataguan",
+    "tataguan"
+  ],
+  "knock (door)": [
+    "katok",
+    "kumatok",
+    "kumakatok",
+    "kakatok",
+    "kinatok",
+    "kinakatok",
+    "kakatukin"
+  ],
+  "point": [
+    "turo",
+    "nagturo",
+    "nagtuturo",
+    "magtuturo",
+    "tinuro",
+    "tinuturo",
+    "ituturo"
+  ],
+  "yes (to say yes to)": [
+    "oo",
+    "umoo*",
+    "umooo**",
+    "ooo***",
+    "inoohan*",
+    "inooohan**",
+    "ooohan***"
+  ],
+  "help": [
+    "tulong",
+    "tumulong",
+    "tumutulong",
+    "tutulong",
+    "tinulungan",
+    "tinutulungan",
+    "tutulungan"
+  ],
+  "bring out": [
+    "labas",
+    "naglabas",
+    "naglalabas",
+    "maglalabas",
+    "nilabas",
+    "nilalabas",
+    "ilalabas"
+  ],
+  "walk": [
+    "lakad",
+    "naglakad",
+    "naglalakad",
+    "maglalakad",
+    "nilakad",
+    "nilalakad",
+    "lalakarin"
+  ],
+  "worship": [
+    "samba",
+    "nagsamba",
+    "nagsasamba",
+    "magsasamba",
+    "sinamba",
+    "sinasamba",
+    "sasambahin"
+  ],
+  "frighten (someone)": [
+    "takot",
+    "nanakot",
+    "nananakot",
+    "mananakot",
+    "tinakot",
+    "tinatakot",
+    "tatakutin"
+  ],
+  "hide (something)": [
+    "tago",
+    "nagtago",
+    "nagtatago",
+    "magtatago",
+    "tinago",
+    "tinatago",
+    "itatago"
+  ],
+  "get": [
+    "kuha",
+    "kumuha",
+    "kumukuha",
+    "kukuha",
+    "kinuha",
+    "kinukuha",
+    "kukunin"
+  ],
+  "hand over (something)": [
+    "bigay",
+    "",
+    "",
+    "",
+    "ibinigay",
+    "ibinibigay",
+    "ibibigay"
+  ],
+  "hand to (something to someone)": [
+    "abot",
+    "nag-abot",
+    "nag-aabot",
+    "mag-aabot",
+    "inabot",
+    "inaabot",
+    "iaabot"
+  ],
+  "angry (scold someone)": [
+    "galit",
+    "",
+    "",
+    "",
+    "pinagalitan",
+    "pinapagalitan",
+    "papagalitan"
+  ],
+  "feel (better)": [
+    "galing",
+    "gumaling",
+    "gumagaling",
+    "gagaling",
+    "",
+    "",
+    ""
+  ],
+  "hurt (transitive)": [
+    "sakit",
+    "nasaktan",
+    "nasasaktan",
+    "masasaktan",
+    "sinaktan",
+    "sinasaktan",
+    "sasaktan"
+  ],
+  "avoid": [
+    "layo",
+    "lumayo",
+    "lumalayo",
+    "lalayo",
+    "nilayuan",
+    "nilalayuan",
+    "lalayuan"
+  ],
+  "close": [
+    "sara",
+    "nagsara",
+    "nagsasara",
+    "magsasara",
+    "sinara",
+    "sinasara",
+    "isasara"
+  ],
+  "press (iron)": [
+    "plantsa",
+    "nagplantsa",
+    "nagpaplantsa",
+    "magplaplantsa",
+    "pinaltsa",
+    "pinaplantsa",
+    "paplantsahin"
+  ],
+  "test (examine)": [
+    "suri",
+    "nagsuri",
+    "nagsusuri",
+    "magsusuri",
+    "sinuri",
+    "sinusuri",
+    "susuriin"
+  ],
+  "wait": [
+    "hintay",
+    "naghintay",
+    "naghihintay",
+    "maghihintay",
+    "hinintay",
+    "hinihintay",
+    "hihintayin"
+  ],
+  "report (complain)": [
+    "sumbong",
+    "nagsumbong",
+    "nagsusumbong",
+    "magsusumbong",
+    "isinumbong",
+    "isinusumbong",
+    "isusumbong"
+  ],
+  "shout": [
+    "sigaw",
+    "sumigaw",
+    "sumisigaw",
+    "sisigaw",
+    "sinigaw",
+    "sinisigaw",
+    "isisigaw"
+  ],
+  "take care (of one's self)": [
+    "ingat",
+    "nag-ingat",
+    "nag-iingat",
+    "mag-iingat",
+    "iningatan",
+    "iniingatan",
+    "iingatan"
+  ],
+  "sink": [
+    "lubog",
+    "lumubog",
+    "lumulubog",
+    "lulubog",
+    "nilubog",
+    "nilulubog",
+    "ilulubog"
+  ],
+  "wonder (be puzzled)": [
+    "taka",
+    "nagtaka",
+    "nagtataka",
+    "magtataka",
+    "ipinagtaka",
+    "ipinagtataka",
+    "ipagtataka"
+  ],
+  "finish (something)": [
+    "tapos",
+    "",
+    "",
+    "",
+    "tinapos",
+    "tinatapos",
+    "tatapusin"
+  ],
+  "measure (dimension)": [
+    "sukat",
+    "nagsukat",
+    "nagsusukat",
+    "magsusukat",
+    "sinukat",
+    "sinusukat",
+    "susukatin"
+  ],
+  "add": [
+    "dagdag",
+    "nagdagdag",
+    "nagdaragdag",
+    "magdaragdag",
+    "dinagdagan",
+    "dinaragdagan",
+    "dadagdagan"
+  ],
+  "examine (medical)": [
+    "tingin",
+    "nagpatingin",
+    "nagpapatingin",
+    "magpapatingin",
+    "tiningnan",
+    "tinitingnan",
+    "titingnan"
+  ],
+  "drop off (someone)": [
+    "hatid",
+    "naghatid",
+    "naghahatid",
+    "maghahatid",
+    "hinatid",
+    "hinahatid",
+    "ihahatid"
+  ],
+  "do": [
+    "gawa",
+    "gumawa",
+    "gumagawa",
+    "gagawa",
+    "ginawa",
+    "ginagawa",
+    "gagawin"
+  ],
+  "pretty (make one's self)": [
+    "ganda",
+    "nagpaganda",
+    "nagpapaganda",
+    "magpapaganda",
+    "pinaganda",
+    "pinapaganda",
+    "pagagandahin"
+  ],
+  "suffer": [
+    "dusa",
+    "nagdusa",
+    "nagdudusa nagdurusa",
+    "magdusa magdurusa",
+    "ipinagdusa",
+    "ipinagdudusa ipinagdurusa",
+    "pagdudusahan pagdurusahan"
+  ],
+  "understand (something)": [
+    "intindi",
+    "umintindi",
+    "umiintindi",
+    "iintindi",
+    "inintindi",
+    "iniintindi",
+    "iintindihin"
+  ],
+  "want": [
+    "gusto",
+    "",
+    "",
+    "",
+    "ginusto",
+    "ginugusto",
+    "gugustuhin"
+  ],
+  "follow after": [
+    "sunod",
+    "sumunod",
+    "sumusunod",
+    "susunod",
+    "sinundan",
+    "sinusundan",
+    "susundan"
+  ],
+  "assume": [
+    "akala",
+    "nag-akala",
+    "nag-aakala",
+    "mag-aakala",
+    "inakala",
+    "inaakala",
+    "aakalain"
+  ],
+  "promote (something)": [
+    "taguyod",
+    "nagtaguyod",
+    "nagtataguyod",
+    "magtataguyod",
+    "tinaguyod",
+    "tinataguyod",
+    "itataguyod"
+  ],
+  "bring home": [
+    "uwi",
+    "nag-uwi",
+    "nag-uuwi",
+    "mag-uuwi",
+    "inuwi",
+    "inuuwi",
+    "uuwian"
+  ],
+  "approach": [
+    "lapit",
+    "lumapit",
+    "lumalapit",
+    "lalapit",
+    "nilapitan",
+    "nilalapitan",
+    "lalapitan"
+  ],
+  "answer (respond)": [
+    "sagot",
+    "sumagot",
+    "sumasagot",
+    "sasagot",
+    "sinagot",
+    "sinasagot",
+    "sasagutin"
+  ],
+  "hear (something)": [
+    "dinig",
+    "nadinig narinig",
+    "nadidinig naririnig",
+    "madidinig maririnig",
+    "dininig dinirig",
+    "dinidinig dinirinig",
+    "didinggin diringinggin"
+  ],
+  "invite": [
+    "imbita",
+    "nag-imbita",
+    "nag-iimbita",
+    "mag-iimbita",
+    "inimbita",
+    "iniimbita",
+    "iimbitahin"
+  ],
+  "knock down": [
+    "giba",
+    "naggiba",
+    "naggigiba",
+    "maggigiba",
+    "giniba",
+    "ginigiba",
+    "gigibain"
+  ],
+  "vanish": [
+    "wala",
+    "nawala",
+    "nawawala",
+    "mawawala",
+    "winala",
+    "winawala",
+    "wawalain"
+  ],
+  "give up (surrender)": [
+    "suko",
+    "sumuko",
+    "sumusuko",
+    "susuko",
+    "isinuko",
+    "isinusuko",
+    "isusuko"
+  ],
+  "park (parking lot)": [
+    "parada",
+    "pumarada",
+    "pumaparada",
+    "paparada",
+    "ipinarada",
+    "ipinaparada",
+    "ipaparada"
+  ],
+  "break (out of order)": [
+    "sira",
+    "nagsira",
+    "nagsisira",
+    "magsisira",
+    "nasira",
+    "nasisira",
+    "masisira"
+  ],
+  "hike": [
+    "lakad",
+    "naglakad",
+    "naglalakad",
+    "maglalakad",
+    "nilakad",
+    "nilalakad",
+    "lalakarin"
+  ],
+  "cross": [
+    "tawid",
+    "tumawid",
+    "tumatawid",
+    "tatawid",
+    "tinawid",
+    "tinatawid",
+    "tatawirin"
+  ],
+  "present (something)": [
+    "kilala",
+    "",
+    "",
+    "",
+    "ipinakilala",
+    "ipinakikilala",
+    "ipapakilala"
+  ],
+  "cure": [
+    "gamot",
+    "gumamot",
+    "gumagamot",
+    "gagamot",
+    "ginamot",
+    "ginagamot",
+    "gagamutin"
+  ],
+  "marry": [
+    "kasal",
+    "nagpakasal",
+    "nagpapakasal",
+    "magpapakasal",
+    "kinasal",
+    "kinakasal",
+    "ikakasal"
+  ],
+  "catch up (someone)": [
+    "abot",
+    "nag-abot",
+    "nag-aabot",
+    "mag-aabot",
+    "inabutan",
+    "inaabutan",
+    "aabutan"
+  ],
+  "drop off": [
+    "baba",
+    "nagbaba",
+    "nagbababa",
+    "magbababa",
+    "ibinaba",
+    "ibinababa",
+    "ibababa"
+  ],
+  "pass on": [
+    "pasa",
+    "nagpasa",
+    "nagpapasa",
+    "magpapasa",
+    "ipinasa",
+    "ipinapasa",
+    "ipapasa"
+  ],
+  "reject": [
+    "tanggi",
+    "tumanggi",
+    "tamatanggi",
+    "tatanggi",
+    "tinanggihan",
+    "tinatanggihan",
+    "tatanggihan"
+  ],
+  "brush (teeth)": [
+    "sipilyo (brush)",
+    "nagsipilyo (nag-brush)",
+    "nagsisipilyo (nagba-brush)",
+    "magsisipilyo (magba-brush)",
+    "sinipilyo (binrush)",
+    "sinisipilyo (binabrush)",
+    "sisipilyuhin (babrushin)"
+  ],
+  "cut (with scissors)": [
+    "gupit",
+    "naggupit",
+    "naggugupit",
+    "maggugupit",
+    "ginupit",
+    "ginugupit",
+    "gugupitin"
+  ],
+  "cut (slice)": [
+    "hiwa",
+    "naghiwa",
+    "naghihiwa",
+    "maghihiwa",
+    "hiniwa",
+    "hinihiwa",
+    "hihiwain"
+  ],
+  "lay (put)": [
+    "lagay",
+    "naglagay",
+    "naglalagay",
+    "maglalagay",
+    "nilagay",
+    "nilalagay",
+    "ilalagay"
+  ],
+  "attend": [
+    "dalo",
+    "dumalo",
+    "dumadalo",
+    "dadalo",
+    "dinaluhan",
+    "dinadaluhan",
+    "dadaluhan"
+  ],
+  "agitate (someone)": [
+    "galit",
+    "nanggalit",
+    "nanggagalit",
+    "manggagalit",
+    "ginalit",
+    "ginagalit",
+    "gagalitin"
+  ],
+  "fly": [
+    "lipad",
+    "lumipad",
+    "lumilipad",
+    "lilipad",
+    "nilipad",
+    "nililipad",
+    "liliparin"
+  ],
+  "no (to say no)": [
+    "hindi",
+    "humindi",
+    "humihindi",
+    "hihindi",
+    "hinindian",
+    "hinihindian",
+    "hihindian"
+  ],
+  "greet (someone)": [
+    "bati",
+    "bumati",
+    "bumabati",
+    "babati",
+    "binati",
+    "binabati",
+    "babatiin"
+  ],
+  "lose": [
+    "wala",
+    "nawala",
+    "nawawala",
+    "mawawala",
+    "winala",
+    "winawala",
+    "iwawala"
+  ],
+  "haircut (to have)": [
+    "gupit",
+    "nagpagupit",
+    "nagpapagupit",
+    "magpapagupit",
+    "ginupitan",
+    "ginugupitan",
+    "gugupitan"
+  ],
+  "carry (on the back)": [
+    "pasan",
+    "nagpasan",
+    "nagpapasan",
+    "magpapasan",
+    "pinasan",
+    "pinapasan",
+    "papasanin"
+  ],
+  "pass (exam)": [
+    "pasa",
+    "pumasa",
+    "pumapasa",
+    "papasa",
+    "pinasa",
+    "pinapasa",
+    "ipapasa"
+  ],
+  "push": [
+    "tulak",
+    "nagtulak",
+    "nagtutulak",
+    "magtutulak",
+    "tinulak",
+    "tinutulak",
+    "itutulak"
+  ],
+  "raise (hand)": [
+    "taas",
+    "nagtaas",
+    "nagtataas",
+    "magtataas",
+    "itinaas",
+    "itinataas",
+    "itataas"
+  ],
+  "sit": [
+    "upo",
+    "umupo",
+    "umuupo",
+    "uupo",
+    "inupuan",
+    "inuupuan",
+    "uupuan"
+  ],
+  "study": [
+    "aral",
+    "nag-aral",
+    "nag-aaral",
+    "mag-aaral",
+    "pinag-aralan",
+    "pinag-aaralan",
+    "pag-aaralan"
+  ],
+  "feel (something)": [
+    "dama",
+    "dumama",
+    "dumarama",
+    "dadama",
+    "dinama",
+    "dinadama",
+    "dadamhin"
+  ],
+  "turn on": [
+    "bukas",
+    "nagbukas",
+    "nagbubukas",
+    "magbubukas",
+    "binuksan",
+    "binubuksan",
+    "bubuksan"
+  ],
+  "hate": [
+    "suklam",
+    "nasuklam",
+    "nasusuklam",
+    "masusuklam",
+    "isinuklam",
+    "isinusuklam",
+    "isusuklam"
+  ],
+  "cover up": [
+    "takip",
+    "nagtakip",
+    "nagtatakip",
+    "magtatakip",
+    "pinagtapan",
+    "pinapagtakpan",
+    "papagtakpan"
+  ],
+  "return": [
+    "sauli",
+    "nagsauli",
+    "nagsasauli",
+    "magsasauli",
+    "isinauli",
+    "isinasauli",
+    "isasauli"
+  ],
+  "feel (bad)": [
+    "damdam",
+    "nagdamdam",
+    "nagdaramdam",
+    "magdaramdam",
+    "dinamdam",
+    "dinaramdam",
+    "daramdamin"
+  ],
+  "pretty (become)": [
+    "ganda",
+    "gumanda",
+    "gumaganda",
+    "gaganda",
+    "ginanda",
+    "ginaganda",
+    "igaganda"
+  ],
+  "burp": [
+    "dighay",
+    "dumighay",
+    "dumidighay",
+    "didighay",
+    "",
+    "",
+    ""
+  ],
+  "arrive": [
+    "dating",
+    "dumating",
+    "dumarating",
+    "darating",
+    "dinatnan",
+    "dinaratnan",
+    "daratnan"
+  ],
+  "cheat": [
+    "daya",
+    "nandaya",
+    "nandadaya",
+    "mandadaya",
+    "dinaya",
+    "dinadaya",
+    "dadayain"
+  ],
+  "entertain": [
+    "libang",
+    "naglibang",
+    "naglilibang",
+    "manlilibang",
+    "nilibang",
+    "nililibang",
+    "lilibangin"
+  ],
+  "grow (become big)": [
+    "laki",
+    "lumaki",
+    "lumalaki",
+    "lalaki",
+    "inilaki",
+    "inilalaki",
+    "ilalaki"
+  ],
+  "pull": [
+    "hila",
+    "naghila",
+    "naghihila",
+    "maghihila",
+    "hinila",
+    "hinihila",
+    "hihilahin"
+  ],
+  "rub (massage)": [
+    "masahe",
+    "nagmasahe",
+    "nagmamasahe",
+    "magmamasahe",
+    "minasahe",
+    "minamasahe",
+    "mamasahiin"
+  ],
+  "sing": [
+    "awit",
+    "umawit",
+    "umaawit",
+    "aawit",
+    "inawit",
+    "inaawit",
+    "aawitin"
+  ],
+  "come back": [
+    "balik",
+    "bumalik",
+    "bunabalik",
+    "babalik",
+    "binalikan",
+    "binabalikan",
+    "babalikan"
+  ],
+  "pass by": [
+    "daan",
+    "dumaan",
+    "dumadaan dumaraan",
+    "dadaan daraan",
+    "dinaanan",
+    "dinadaanan",
+    "dadaanan"
+  ],
+  "repeat (work)": [
+    "ulit",
+    "nag-ulit",
+    "nag-uulit",
+    "mag-uulit",
+    "inulit",
+    "inuulit",
+    "uulitin"
+  ],
+  "face (someone/ something)": [
+    "harap",
+    "humarap",
+    "humaharap",
+    "haharap",
+    "hinarap",
+    "hinaharap",
+    "haharapin"
+  ],
+  "guard (look after)": [
+    "bantay",
+    "nagbantay",
+    "nagbabantay",
+    "magbabantay",
+    "binantayan",
+    "binabantayan",
+    "babantayan"
+  ],
+  "carry (with hand)": [
+    "hawak",
+    "",
+    "",
+    "",
+    "hinawakan",
+    "hinahawakan",
+    "hahakawan"
+  ],
+  "wonder (be amazed)": [
+    "mangha",
+    "namangha",
+    "namamangha",
+    "mamamangha",
+    "namanghaan",
+    "namamanghaan",
+    "mamamanghaan"
+  ],
+  "boil": [
+    "laga",
+    "naglaga",
+    "naglalaga",
+    "maglalaga",
+    "nilaga",
+    "nilalaga",
+    "ilalaga"
+  ],
+  "know (something)": [
+    "alam",
+    "",
+    "",
+    "",
+    "inalam",
+    "inaalam",
+    "aalamin"
+  ],
+  "light up": [
+    "ilaw",
+    "umilaw",
+    "umiilaw",
+    "iilaw",
+    "inilawan",
+    "iniilawan",
+    "iilawan"
+  ],
+  "stand": [
+    "tayo",
+    "tumayo",
+    "tumatayo",
+    "tatayo",
+    "tinayuan",
+    "tinatayuan",
+    "tatayuan"
+  ],
+  "clean": [
+    "linis",
+    "naglinis",
+    "naglilinis",
+    "maglilinis",
+    "nilinis",
+    "nililinis",
+    "lilinisin"
+  ],
+  "cry": [
+    "iyak",
+    "umiyak",
+    "umiiyak",
+    "iiyak",
+    "iniyakan",
+    "iniiyakan",
+    "iiyakan"
+  ],
+  "depart": [
+    "alis",
+    "umalis",
+    "umaalis",
+    "aalis",
+    "",
+    "",
+    ""
+  ],
+  "worry": [
+    "alala",
+    "nag-alala",
+    "nag-aalala",
+    "mag-aalala",
+    "inalala",
+    "inaalala",
+    "aalahanin"
+  ],
+  "make": [
+    "gawa",
+    "gumawa",
+    "gumagawa",
+    "gagawa",
+    "ginawa",
+    "ginagawa",
+    "gagawain gagawin"
+  ],
+  "market (go to)": [
+    "palengke",
+    "na- malengke",
+    "nama- malengke",
+    "mama- malengke",
+    "pina- malengke",
+    "pina- pamalengke",
+    "papa- malengkehin"
+  ],
+  "noise": [
+    "ingay",
+    "nag-ingay",
+    "nag-iingay",
+    "mag-iingay",
+    "iningayan",
+    "iniingayan",
+    "iingayan"
+  ],
+  "order (someone*)": [
+    "utos",
+    "nag-utos",
+    "nag-uutos",
+    "mag-uutos",
+    "inutusan",
+    "inuutusan",
+    "uutusan"
+  ],
+  "": [
+    "",
+    "nanghingi",
+    "nanghihingi",
+    "manghihingi",
+    "hiningan",
+    "hinihingan",
+    "hihingan"
+  ],
+  "act": [
+    "arte",
+    "umarte",
+    "umaarte",
+    "aarte",
+    "inartehan",
+    "inaartehan",
+    "aartehan"
+  ],
+  "pass on (to someone)": [
+    "abot",
+    "nag-abot",
+    "nag-aabot",
+    "mag-aabot",
+    "inabot",
+    "inaabot",
+    "iaabot"
+  ],
+  "prepare (get ready)": [
+    "handa",
+    "humanda",
+    "humahanda",
+    "hahanda",
+    "",
+    "",
+    ""
+  ],
+  "continue": [
+    "patuloy",
+    "nagpatuloy",
+    "nagpapatuloy",
+    "magpapatuloy",
+    "",
+    "",
+    ""
+  ],
+  "cut (chop)": [
+    "tatad",
+    "nagtadtad",
+    "nagtatadtad",
+    "magtatadtad",
+    "tinadtad",
+    "tinatadtad",
+    "tatadtarin"
+  ],
+  "ride": [
+    "sakay",
+    "sumakay",
+    "sumasakay",
+    "sasakay",
+    "sinakyan",
+    "sinasakyan",
+    "sasakyan"
+  ],
+  "attention (give)": [
+    "pansin",
+    "napansin",
+    "napapansin",
+    "mapapansin",
+    "pinansin",
+    "pinapansin",
+    "papansinin"
+  ],
+  "understand (someone)": [
+    "intindi",
+    "",
+    "",
+    "",
+    "naintindihan",
+    "naiintindihan",
+    "maiintindihan"
+  ],
+  "wed": [
+    "kasal",
+    "nagpakasal",
+    "nagpapakasal",
+    "magpapakasal",
+    "pinakasalan",
+    "pinapakasalan",
+    "papakasalan"
+  ],
+  "talk": [
+    "salita",
+    "nagsalita",
+    "nagsasalita",
+    "magsasalita",
+    "sinalita",
+    "sinasalita",
+    "sasalitain"
+  ],
+  "believe": [
+    "niwala",
+    "naniwala",
+    "naniniwala",
+    "maniniwala",
+    "pinaniwalaan",
+    "pinaniniwalaan",
+    "paniniwalaan"
+  ],
+  "dizzy": [
+    "hilo",
+    "nahilo",
+    "nahihilo",
+    "mahihilo",
+    "",
+    "",
+    ""
+  ],
+  "examine (test)": [
+    "sulit",
+    "nagsulit (nag-exam)",
+    "nagsusulit (nage-exam)",
+    "magsusulit (mage-exam)",
+    "sinulit (inexam)",
+    "sinusulit (ineexam)",
+    "susulitin (ieexam)"
+  ],
+  "confuse": [
+    "lito",
+    "nalito",
+    "nalilito",
+    "malilito",
+    "nilito",
+    "nililito",
+    "lilituhin"
+  ],
+  "begin": [
+    "umpisa",
+    "nag-umpisa",
+    "nag-uumpisa",
+    "mag-uumpisa",
+    "inumpisahan",
+    "inuumpisahan",
+    "uumpisahan"
+  ],
+  "jump": [
+    "talon",
+    "tumalon",
+    "tumatalon",
+    "tatalon",
+    "tinalon",
+    "tinatalon",
+    "tatalunin"
+  ],
+  "laugh": [
+    "tawa",
+    "tumawa",
+    "tumatawa",
+    "tatawa",
+    "tinawanan",
+    "tinatawanan",
+    "tatawanan"
+  ],
+  "remove (something)": [
+    "alis",
+    "nag-alis",
+    "nag-aalis",
+    "mag-aalis",
+    "inalis",
+    "inaalis",
+    "aalisin"
+  ],
+  "goodbye (to say)": [
+    "paalam",
+    "nagpaalam",
+    "nagpapaalam",
+    "magpapaalam",
+    "",
+    "",
+    ""
+  ],
+  "question": [
+    "tanong",
+    "nagtanong",
+    "nagtatanong",
+    "magtatanong",
+    "tinanong",
+    "tinatanong",
+    "tatanungin"
+  ],
+  "rise up (from lying)": [
+    "bangon",
+    "bumangon",
+    "bumabangon",
+    "babangon",
+    "binangon",
+    "binabangon",
+    "ibabangon"
+  ],
+  "violate (an order)": [
+    "suway",
+    "sumuway",
+    "sumusuway",
+    "susuway",
+    "sinuway",
+    "sinusuway",
+    "susuwayin"
+  ],
+  "revise (change)": [
+    "palit",
+    "nagpalit",
+    "nagpapalit",
+    "magpapalit",
+    "pinalitan",
+    "pinapalitan",
+    "papalitan"
+  ],
+  "roll": [
+    "gulong",
+    "gumulong",
+    "gumugulong",
+    "gugulong",
+    "ginulong",
+    "ginugulong",
+    "igugulong"
+  ],
+  "accuse": [
+    "akusa",
+    "nag-akusa",
+    "nang-aakusa",
+    "mang-aakusa",
+    "inakusahan",
+    "inaakusahan",
+    "aakusahan"
+  ],
+  "buy": [
+    "bili",
+    "bumili",
+    "bumibili",
+    "bibili",
+    "binili",
+    "binibili",
+    "bibilhin"
+  ],
+  "observe": [
+    "masid",
+    "nagmasid",
+    "nagmamasid",
+    "magmamasid",
+    "minasdan",
+    "minamasdan",
+    "mamasdan"
+  ],
+  "see": [
+    "kita",
+    "nakakita",
+    "nakakakita",
+    "makakakita",
+    "nakita",
+    "nakikita",
+    "makikita"
+  ],
+  "improve": [
+    "buti",
+    "bumuti",
+    "bumubuti",
+    "bubuti",
+    "binuti",
+    "binubuti",
+    "ibubuti"
+  ],
+  "converse": [
+    "usap",
+    "nag-usap",
+    "nag-uusap",
+    "mag-uusap",
+    "pinag-usapan",
+    "pinapag-usapan",
+    "papag-usapan"
+  ],
+  "play (instrument)": [
+    "tugtog",
+    "tumugtog",
+    "tumutugtog",
+    "tutugtog",
+    "tinugtog",
+    "tinutugtog",
+    "tutugtugin"
+  ],
+  "remove (someone)": [
+    "alis",
+    "nagpaalis",
+    "nagpapaalis",
+    "magpapaalis",
+    "pinaalis",
+    "pinapaalis",
+    "papaalisin"
+  ],
+  "watch (someone)": [
+    "nood",
+    "",
+    "",
+    "",
+    "pinanood",
+    "pinapanood",
+    "papanoorin"
+  ],
+  "withdraw (from activity)": [
+    "alis",
+    "umalis",
+    "umaalis",
+    "aalis",
+    "",
+    "",
+    ""
+  ],
+  "fart": [
+    "utot",
+    "umutot",
+    "umuutot",
+    "uutot",
+    "inutot",
+    "inuutot",
+    "uututin"
+  ],
+  "raise (children)": [
+    "laki",
+    "nagpalaki",
+    "nagpapalaki",
+    "magpapalaki",
+    "pinalaki",
+    "pinapalaki",
+    "papalakihin"
+  ],
+  "brag (or boast)": [
+    "yabang",
+    "nagyabang",
+    "nagyayabang",
+    "magyayabang",
+    "ipinag- yabang",
+    "ipinapag- yabang",
+    "ipag- yayabang"
+  ],
+  "prepare (food)": [
+    "handa",
+    "naghanda",
+    "naghahanda",
+    "maghahanda",
+    "hinanda",
+    "hinahanda",
+    "ihahanda"
+  ],
+  "attract": [
+    "akit",
+    "naakit",
+    "naaakit",
+    "maaakit",
+    "inakit",
+    "inaakit",
+    "aakitin"
+  ],
+  "love (something)": [
+    "gusto",
+    "",
+    "",
+    "",
+    "nagustuhan",
+    "nagugustuhan",
+    "magugustuhan"
+  ],
+  "peek": [
+    "silip",
+    "sumilip",
+    "sumisilip",
+    "sisilip",
+    "sinilip",
+    "sinisilip",
+    "sisilipin"
+  ],
+  "promote (someone/job)": [
+    "promote",
+    "na-promote",
+    "napo-promote",
+    "mapo-promote",
+    "pinromote",
+    "pinopromote",
+    "ipopromote"
+  ],
+  "teach": [
+    "turo",
+    "nagturo",
+    "nagtuturo",
+    "magtuturo",
+    "tinuro",
+    "tinuturo",
+    "ituturo"
+  ],
+  "fight": [
+    "laban",
+    "lumaban",
+    "lumalaban",
+    "lalaban",
+    "nilabanan",
+    "nilalabanan",
+    "lalabanan"
+  ],
+  "travel (vacation)": [
+    "bakasyon",
+    "nagbakasyon",
+    "nagbabakasyon",
+    "magbabakasyon",
+    "binakasyunan",
+    "binabakasyunan",
+    "babakasyunan"
+  ],
+  "turn off": [
+    "sara",
+    "nagsara",
+    "nagsasara",
+    "magsasara",
+    "sinara",
+    "sinasara",
+    "isasara"
+  ],
+  "change (clothes)": [
+    "bihis",
+    "nagbihis",
+    "nagbibihis",
+    "magbibihis",
+    "binihisan",
+    "binibihisan",
+    "bibihisan"
+  ],
+  "test (try out)": [
+    "subok",
+    "sumubok",
+    "sumusubok",
+    "susubok",
+    "sinubok",
+    "sinusubok",
+    "susubukin"
+  ],
+  "eat": [
+    "kain",
+    "kumain",
+    "kumakain",
+    "kakain",
+    "kinain",
+    "kinakain",
+    "kakainin"
+  ],
+  "watch over": [
+    "bantay",
+    "nagbantay",
+    "nagbabantay",
+    "magbabantay",
+    "binantayan",
+    "binabantayan",
+    "babantayan"
+  ],
+  "break (long objects)": [
+    "bali",
+    "bumali nagbali",
+    "bumabali nagbabali",
+    "babali magbabali",
+    "binali nabali",
+    "binabali nababali",
+    "babaliin mababali"
+  ],
+  "elope": [
+    "tanan",
+    "nagtanan",
+    "nagtatanan",
+    "magtatanan",
+    "tinanan",
+    "tinatanan",
+    "itatanan"
+  ],
+  "feed": [
+    "kain",
+    "nagpakain",
+    "nagpapakain",
+    "magpapakain",
+    "pinakain",
+    "pinapakain",
+    "papakainin"
+  ],
+  "change": [
+    "palit",
+    "nagpalit",
+    "nagpapalit",
+    "magpapalit",
+    "pinalitan",
+    "pinapalitan",
+    "papalitan"
+  ],
+  "prevent (oneself)": [
+    "pigil",
+    "nagpigil",
+    "nagpipigil",
+    "magpipigil",
+    "pinigilan",
+    "pinipigilan",
+    "pipigilan"
+  ],
+  "take care (of someone)": [
+    "alaga",
+    "nag-alaga",
+    "nag-aalaga",
+    "mag-aalaga",
+    "inalagaan",
+    "inaalagaan",
+    "aalagaan"
+  ],
+  "withdraw (money)": [
+    "kuha (withdraw)",
+    "kumuha (nag-withdraw)",
+    "kumukuha (nagwi-withdraw)",
+    "kukuha (magwi-withdraw)",
+    "kinuha (winithdraw)",
+    "kinukuha (winiwithdraw)",
+    "kukuha (wiwithdrawhin)"
+  ],
+  "create": [
+    "gawa",
+    "gumawa",
+    "gumagawa",
+    "gagawa",
+    "ginawa",
+    "ginagawa",
+    "gagawin"
+  ],
+  "find": [
+    "hanap",
+    "humanap",
+    "humahanap",
+    "hahanap",
+    "hinanap",
+    "hinahanap",
+    "hahanapin"
+  ],
+  "join (someone)": [
+    "sama",
+    "sumama",
+    "sumasama",
+    "sasama",
+    "sinamahan",
+    "sinasamahan",
+    "sasamahan"
+  ],
+  "swallow": [
+    "lunok",
+    "lumunok",
+    "lumulunok",
+    "lulunok",
+    "nilunok",
+    "nilulunok",
+    "lulunukin"
+  ],
+  "love (someone)": [
+    "mahal",
+    "nagmahal",
+    "nagmamahal",
+    "magmamahal",
+    "minahal",
+    "minamahal",
+    "mamahalin"
+  ],
+  "travel (by plane)": [
+    "lipad",
+    "lumipad",
+    "lumilipad",
+    "lilipad",
+    "nilipad",
+    "nililipad",
+    "liliparin"
+  ],
+  "embrace": [
+    "yakap",
+    "yumakap",
+    "yumayakap",
+    "yayakap",
+    "niyakap",
+    "niyayakap",
+    "yayakapin"
+  ],
+  "rise (stand up)": [
+    "tayo",
+    "tumayo",
+    "tumatayo",
+    "tatayo",
+    "",
+    "",
+    ""
+  ],
+  "use": [
+    "gamit",
+    "gumamit",
+    "gumagamit",
+    "gagamit",
+    "ginamit",
+    "ginagamit",
+    "gagamitin"
+  ],
+  "vote": [
+    "boto",
+    "bumoto",
+    "bumoboto",
+    "boboto",
+    "ibinoto",
+    "ibinoboto",
+    "iboboto"
+  ],
+  "laundry": [
+    "laba",
+    "naglaba",
+    "naglalaba",
+    "maglalaba",
+    "nilabhan",
+    "nilalabhan",
+    "lalabhan"
+  ],
+  "slice": [
+    "hiwa",
+    "naghiwa",
+    "naghihiwa",
+    "maghihiwa",
+    "hiniwa",
+    "hinihiwa",
+    "hihiwain"
+  ],
+  "bring to life": [
+    "buhay",
+    "bumuhay",
+    "bumubuhay",
+    "bubuhay",
+    "binuhay",
+    "binubuhay",
+    "bubuhayin"
+  ],
+  "pick (choose)": [
+    "pili",
+    "pumili",
+    "pumipili",
+    "pipili",
+    "pinili",
+    "pinipili",
+    "pipiliin"
+  ],
+  "put": [
+    "lagay",
+    "naglagay",
+    "naglalagay",
+    "maglalagay",
+    "nilagay",
+    "nilalagay",
+    "ilalagay"
+  ],
+  "write (someone)": [
+    "sulat",
+    "sumulat",
+    "sumusulat",
+    "susulat",
+    "sinulatan",
+    "sinusulatan",
+    "susulatan"
+  ],
+  "ask about": [
+    "tanong",
+    "nagtanong",
+    "nagtatanong",
+    "magtatanong",
+    "tinanong",
+    "tinatanong",
+    "tatanungin"
+  ],
+  "birth (to give birth/ to be born)": [
+    "anak",
+    "nanganak (gave birth)",
+    "nanganganak (giving birth)",
+    "manganganak (will give birth)",
+    "ipinanganak (born)",
+    "pinapanganak (being born)",
+    "ipapanganak (will be born)"
+  ],
+  "clean (become)": [
+    "linis",
+    "luminis",
+    "lumilinis",
+    "lilinis",
+    "",
+    "",
+    ""
+  ],
+  "happy (to enjoy)": [
+    "saya",
+    "nagsaya",
+    "nagsasaya",
+    "magsasaya",
+    "pinagsaya",
+    "pinagsasaya",
+    "ipapagsaya"
+  ],
+  "graduate (from school)": [
+    "tapos",
+    "nagtapos",
+    "nagtatapos",
+    "magtatapos",
+    "",
+    "",
+    ""
+  ],
+  "meet (someone)": [
+    "kita",
+    "nagkita",
+    "nagkikita",
+    "magkikita",
+    "nakipagkita",
+    "nakikipagkita",
+    "makikipagkita"
+  ],
+  "full (become)": [
+    "puno",
+    "napuno",
+    "napupuno",
+    "mapupuno",
+    "",
+    "",
+    ""
+  ],
+  "go out": [
+    "labas",
+    "lumabas",
+    "lumalabas",
+    "lalabas",
+    "nilabas",
+    "nilalabas",
+    "lalabasin"
+  ],
+  "quiet": [
+    "tahimik",
+    "tumahimik",
+    "tumatahimik",
+    "tatahimik",
+    "tinahimik",
+    "tinatahimik",
+    "itatahimik"
+  ],
+  "raise (baby sit)": [
+    "alaga",
+    "nag-alaga",
+    "nag-aalaga",
+    "mag-aalaga",
+    "inalagaan",
+    "inaalagaaan",
+    "aalagaan"
+  ],
+  "develop": [
+    "unlad",
+    "umunlad",
+    "umuunlad",
+    "uunlad",
+    "inunlad",
+    "inuunlad",
+    "uunlarin"
+  ],
+  "count": [
+    "bilang",
+    "bumilang",
+    "bumibilang",
+    "bibilang",
+    "binilang",
+    "binibilang",
+    "bibilangin"
+  ],
+  "hit (fist)": [
+    "suntok",
+    "nanuntok",
+    "nanununtok",
+    "manununtok",
+    "sinuntok",
+    "sinusuntok",
+    "susuntukin"
+  ],
+  "call": [
+    "tawag",
+    "tumawag",
+    "tumatawag",
+    "tatawag",
+    "tinawag",
+    "tinatawag",
+    "tatawagin"
+  ],
+  "place": [
+    "lagay",
+    "naglagay",
+    "naglalagay",
+    "maglalagay",
+    "nilagay",
+    "nilalagay",
+    "ilalagay"
+  ],
+  "sad": [
+    "lungkot",
+    "nalungkot",
+    "nalulungkot",
+    "malulungkot",
+    "ikinalungkot",
+    "ikinalulungkot",
+    "ikalulungkot"
+  ],
+  "throw": [
+    "tapon",
+    "nagtapon",
+    "nagtatapon",
+    "magtatapon",
+    "tinapon",
+    "tinatapon",
+    "itatapon"
+  ],
+  "bring along": [
+    "sama",
+    "nagsama",
+    "nagsasama",
+    "magsasama",
+    "isinama",
+    "isinasama",
+    "isasama"
+  ],
+  "quit": [
+    "ayaw",
+    "umayaw",
+    "umaayaw",
+    "aayaw",
+    "inayawan",
+    "inaayawan",
+    "aayawan"
+  ],
+  "read (something)": [
+    "basa",
+    "nagbasa bumasa",
+    "nagbabasa bumabasa",
+    "magbabasa babasa",
+    "binasa",
+    "binabasa",
+    "babasahin"
+  ],
+  "rent (house)": [
+    "upa",
+    "umupa",
+    "umuupa",
+    "uupa",
+    "inupahan",
+    "inuupahan",
+    "uupahan"
+  ],
+  "erase": [
+    "bura",
+    "nagbura",
+    "nagbubura",
+    "magbubura",
+    "binura",
+    "binubura",
+    "buburahin"
+  ],
+  "happy (become)": [
+    "saya",
+    "sumaya",
+    "sumasaya",
+    "sasaya",
+    "ikinasaya",
+    "ikinasasaya",
+    "ikakasaya"
+  ],
+  "kiss": [
+    "halik",
+    "humalik",
+    "humahalik",
+    "hahalik",
+    "hinalikan",
+    "hinahalikan",
+    "hahalikan"
+  ],
+  "break (tear)": [
+    "punit",
+    "nagpunit pumunit",
+    "nagpupunit pumupunit",
+    "magpupunit pupunit",
+    "napunit pinunit",
+    "napupunit pinupunit",
+    "mapupunitpu pupunitin"
+  ],
+  "farm": [
+    "saka",
+    "nagsaka",
+    "nagsasaka",
+    "magsasaka",
+    "sinaka",
+    "sinasaka",
+    "sasakahin"
+  ],
+  "smile": [
+    "ngiti",
+    "ngumiti",
+    "ngumingiti",
+    "ngingiti",
+    "nginitian",
+    "nginingitian",
+    "ngingitian"
+  ],
+  "type (typewriter)": [
+    "makinilya (type)",
+    "nagmakinilya (nag-type)",
+    "nagmamakinilya (nagta-type)",
+    "magmamakinilya (magta-type)",
+    "minakinilya (tinype)",
+    "minamakinilya (tinatype)",
+    "mamakinilyahin (itatype)"
+  ],
+  "break (glassware)": [
+    "basag",
+    "nagbasag",
+    "nagbabasag",
+    "magbabasag",
+    "binasag nabasag",
+    "binabasag nababasag",
+    "babasagin mababasag"
+  ],
+  "visit": [
+    "dalaw",
+    "dumalaw",
+    "dumadalaw",
+    "dadalaw",
+    "dinalaw",
+    "dinadalaw",
+    "dadalawin"
+  ],
+  "violate (a law)": [
+    "labag",
+    "lumabag",
+    "lumalabag",
+    "lalabag",
+    "nilabag",
+    "nilalabag",
+    "lalabagin"
+  ],
+  "enter into": [
+    "suot",
+    "sumuot",
+    "sumusuot",
+    "susuot",
+    "sinuotan",
+    "sinusuotan",
+    "susuotan"
+  ],
+  "open (something)": [
+    "bukas",
+    "nagbukas",
+    "nagbubukas",
+    "magbubukas",
+    "binuksan",
+    "binubuksan",
+    "bubuksan"
+  ],
+  "elevate": [
+    "taas",
+    "nagtaas",
+    "nagtataas",
+    "magtataas",
+    "tinaas",
+    "tinataas",
+    "tataasin"
+  ],
+  "grant (money/chance)": [
+    "bigay",
+    "nabigay",
+    "nagbibigay",
+    "magbibigay",
+    "binigyan",
+    "binibigyan",
+    "bibigyan"
+  ],
+  "cut (vegetables)": [
+    "gayat",
+    "naggayat",
+    "naggagayat",
+    "maggagayat",
+    "ginayat",
+    "ginagayat",
+    "gagayatin"
+  ],
+  "refuse": [
+    "ayaw",
+    "umayaw",
+    "umaayaw",
+    "aayaw",
+    "inayawan",
+    "inaayawan",
+    "aayawan"
+  ],
+  "sew": [
+    "tahi",
+    "nagtahi",
+    "nagtatahi",
+    "magtatahi",
+    "tinahi",
+    "tinatahi",
+    "tatahiin"
+  ],
+  "sign (signature)": [
+    "pirma",
+    "pumirma",
+    "pumipirma",
+    "pipirma",
+    "pinirmahan",
+    "pinipirmahan",
+    "pipirmahan"
+  ],
+  "pay": [
+    "bayad",
+    "nagbayad",
+    "nagbabayad",
+    "magbabayad",
+    "binayaran",
+    "binabayaran",
+    "babayaran"
+  ],
+  "remember": [
+    "alala",
+    "naalala",
+    "naaalala",
+    "maaalala",
+    "inalala",
+    "inaalala",
+    "aalalahanin"
+  ],
+  "destroy": [
+    "sira",
+    "nanira",
+    "naninira",
+    "maninira",
+    "sinira",
+    "sinisira",
+    "sisirain"
+  ],
+  "drop down": [
+    "bagsak",
+    "nagbagsak",
+    "nagbabagsak",
+    "magbabagsak",
+    "binagsak",
+    "binabagsak",
+    "ibabagsak"
+  ],
+  "nod": [
+    "tango",
+    "tumango",
+    "tumatango",
+    "tatango",
+    "tinanguan",
+    "tinatanguan",
+    "tatanguan"
+  ],
+  "burn": [
+    "sunog",
+    "nagsunog",
+    "nagsusunog",
+    "magsusunog",
+    "sinunog",
+    "sinusunog",
+    "susunugin"
+  ],
+  "loan": [
+    "utang",
+    "umutang",
+    "umuutang",
+    "uutang",
+    "inutangan",
+    "inuutangan",
+    "uutangan"
+  ],
+  "repeat (behavior)": [
+    "ulit",
+    "umulit",
+    "umuulit",
+    "uulit",
+    "inulit",
+    "inuulit",
+    "uulitin"
+  ],
+  "borrow": [
+    "hiram",
+    "humiram",
+    "humihiram",
+    "hihiram",
+    "hiniram",
+    "hinihiram",
+    "hihiramin"
+  ],
+  "bring up": [
+    "akyat",
+    "nag-akyat",
+    "nag-aakyat",
+    "mag-aakyat",
+    "inakyat",
+    "inaakyat",
+    "iaakyat"
+  ],
+  "put on (clothes)": [
+    "suot",
+    "nagsuot",
+    "nagsusuot",
+    "magsusuot",
+    "sinuot",
+    "sinusuot",
+    "susuutin"
+  ],
+  "water (plants)": [
+    "dilig",
+    "nagdidilig",
+    "nagdidilig",
+    "magdidilig",
+    "diniligan",
+    "dinidiligan",
+    "didiligan"
+  ],
+  "gift (to give)": [
+    "regalo",
+    "nagregalo",
+    "nagreregalo",
+    "magreregalo",
+    "niregaluhan",
+    "nireregalugan",
+    "reregaluhan"
+  ],
+  "tighten": [
+    "higpit",
+    "naghigpit",
+    "naghihigpit",
+    "maghihigpit",
+    "hinigpitan",
+    "hinihigpitan",
+    "hihigpitan"
+  ],
+  "introduce (someone)": [
+    "kilala",
+    "nagpakilala",
+    "nagpapakilala",
+    "magpapakilala",
+    "pinakilala",
+    "pinapakilala",
+    "ipapakilala"
+  ],
+  "involve": [
+    "sali",
+    "sumali",
+    "sumasali",
+    "sasali",
+    "sinali",
+    "sinasali",
+    "isasali"
+  ],
+  "move (something)": [
+    "lipat",
+    "naglipat",
+    "naglilipat",
+    "maglilipat",
+    "nilipat",
+    "nililipat",
+    "ililipat"
+  ],
+  "prevent (something)": [
+    "pigil",
+    "",
+    "",
+    "",
+    "pinigil",
+    "pinipigil",
+    "pipigilin"
+  ],
+  "raise (animals)": [
+    "aruga",
+    "nag-aruga",
+    "nag-aaruga",
+    "mag-aaruga",
+    "inarugaan",
+    "inaarugaan",
+    "aaraguan"
+  ],
+  "sweep (clean)": [
+    "walis",
+    "nagwalis",
+    "nagwawalis",
+    "magwawalis",
+    "winalis",
+    "winawalis",
+    "wawalisin"
+  ],
+  "think": [
+    "isip",
+    "nag-isip",
+    "nag-iisip",
+    "mag-iisip",
+    "inisip",
+    "iniisip",
+    "iisip"
+  ],
+  "rob": [
+    "nakaw",
+    "nagnakaw",
+    "nagnanakaw",
+    "magnanakaw",
+    "ninakaw",
+    "ninanakaw",
+    "nanakawin"
+  ],
+  "put in (the mouth)": [
+    "subo",
+    "nagsubo",
+    "nagsusubo",
+    "magsusubo",
+    "sinubo",
+    "sinusubo",
+    "isusubo"
+  ],
+  "watch (movie/TV)": [
+    "nood",
+    "nanood",
+    "nanonood",
+    "manonood",
+    "pinanood",
+    "pinapanood",
+    "papanoorin"
+  ],
+  "go up": [
+    "akyat",
+    "umakyat",
+    "umaakyat",
+    "aakyat",
+    "inakyat",
+    "inaakyat",
+    "aakyatin"
+  ],
+  "hello (to say)": [
+    "kumusta",
+    "nangumusta",
+    "nangungumusta",
+    "mangungumusta",
+    "kinumusta",
+    "kinukumusta",
+    "kukumustahin"
+  ],
+  "attack": [
+    "lusob",
+    "lumusob",
+    "lumulusob",
+    "lulusob",
+    "niluson",
+    "nilulusob",
+    "lulusubin"
+  ],
+  "park (in the garage)": [
+    "garahe",
+    "naggarahe",
+    "naggagarahe",
+    "maggagarahe",
+    "iginarahe",
+    "iginagarahe",
+    "igagarahe"
+  ],
+  "bring back": [
+    "balik",
+    "nagbalik",
+    "nagbabalik",
+    "magbabalik",
+    "ibinalik",
+    "ibinabalik",
+    "ibabalik"
+  ],
+  "warn": [
+    "babala",
+    "nagbabala",
+    "nagbababala",
+    "magbababala",
+    "binalaan",
+    "binabalaan",
+    "babalaan"
+  ],
+  "read (to someone)": [
+    "basa",
+    "",
+    "",
+    "",
+    "binasahan",
+    "binabasahan",
+    "babasahan"
+  ],
+  "expect": [
+    "asa",
+    "umasa",
+    "umaasa",
+    "aasa",
+    "inasahan",
+    "inaasahan",
+    "aasahan"
+  ],
+  "need": [
+    "kailangan",
+    "nanga- ilangan",
+    "nanganga- ilangan",
+    "manganga- ilangan",
+    "kinailangan",
+    "kinakailangan",
+    "kakailanganin"
+  ],
+  "drink": [
+    "inom",
+    "uminom",
+    "umiinom",
+    "iinom",
+    "ininom",
+    "iniinom",
+    "iinumin"
+  ],
+  "reach (something)": [
+    "abot",
+    "umabot",
+    "umaabot",
+    "aabot",
+    "inabot",
+    "inaabot",
+    "aabutin"
+  ],
+  "reach (destination)": [
+    "dating rating",
+    "dumating narating",
+    "dumarating nararating",
+    "darating mararating",
+    "",
+    "",
+    ""
+  ],
+  "cook": [
+    "luto",
+    "nagluto",
+    "nagluluto",
+    "magluluto",
+    "niluto",
+    "niluluto",
+    "lulutuin"
+  ],
+  "angry (make someone)": [
+    "galit",
+    "nanggalit",
+    "nanggagalit",
+    "manggagalit",
+    "ginalit",
+    "ginagalit",
+    "gagalitin"
+  ],
+  "cut (with ax)": [
+    "sibak",
+    "nagsibak",
+    "nagsisibak",
+    "magsisibak",
+    "sinibak",
+    "sinisibak",
+    "sisibakin"
+  ],
+  "call up (phone)": [
+    "tawag",
+    "tumawag",
+    "tumatawag",
+    "tatawag",
+    "tinawagan",
+    "tinatawagan",
+    "tatawagan"
+  ],
+  "catch (something)": [
+    "salo",
+    "sumalo",
+    "sumasalo",
+    "sasalo",
+    "sinalo",
+    "sinasalo",
+    "sasaluhin"
+  ],
+  "bring": [
+    "hatid",
+    "naghatid",
+    "naghahatid",
+    "maghahatid",
+    "hinatid",
+    "hinahatid",
+    "ihahatid"
+  ],
+  "handshake (to give)": [
+    "kamay",
+    "nagkamayan",
+    "nagkakamayan",
+    "magkakamayan",
+    "kinamayan",
+    "kinakamayan",
+    "kakamayan"
+  ],
+  "hurt (intransitive)": [
+    "sakit",
+    "sumakit",
+    "sumasakit",
+    "sasakit",
+    "",
+    "",
+    ""
+  ],
+  "put in (through a hole)": [
+    "pasok",
+    "nagpasok",
+    "nagpapasok",
+    "magpapasok",
+    "ipinasok",
+    "ipinapasok",
+    "ipapasok"
+  ],
+  "bark": [
+    "tahol",
+    "tumahol",
+    "tumatahol",
+    "tatahol",
+    "tinahulan",
+    "tinatahulan",
+    "tatahulan"
+  ],
+  "go away": [
+    "layas",
+    "lumayas",
+    "lumalayas",
+    "lalayas",
+    "",
+    "",
+    ""
+  ],
+  "promise": [
+    "pangako",
+    "nangako",
+    "nangangako",
+    "mangangako",
+    "ipinangako",
+    "ipinapangako",
+    "ipapangako"
+  ],
+  "deceive": [
+    "linlang",
+    "nanglinlang",
+    "nanlilinlang",
+    "manlilinlang",
+    "nilinlang",
+    "nililinlang",
+    "lilinlangin"
+  ],
+  "put off": [
+    "alis",
+    "nag-alis",
+    "nag-aalis",
+    "mag-aalis",
+    "inalis",
+    "inaalis",
+    "aalisin"
+  ],
+  "put down": [
+    "baba",
+    "nagbaba",
+    "nagbababa",
+    "magbababa",
+    "ibinaba",
+    "ibinababa",
+    "ibababa"
+  ],
+  "insert": [
+    "suot",
+    "nagsuot",
+    "nagsusuot",
+    "magsusuot",
+    "sinuot",
+    "sinusuot",
+    "susuutin"
+  ],
+  "run": [
+    "takbo",
+    "tumakbo",
+    "tumatakbo",
+    "tatakbo",
+    "tinakbo",
+    "tinatakbo",
+    "tatakbuhin"
+  ],
+  "scare": [
+    "takot",
+    "natakot",
+    "natatakot",
+    "matatakot",
+    "tinakot",
+    "tinatakot",
+    "tatakutin"
+  ],
+  "come from": [
+    "galing",
+    "nanggaling",
+    "nanggagaling",
+    "manggagaling",
+    "",
+    "",
+    ""
+  ],
+  "sleep": [
+    "tulog",
+    "natulog",
+    "natutulog",
+    "matutulog",
+    "tinulugan",
+    "tinutulugan",
+    "tutulugan"
+  ],
+  "wash": [
+    "hugas",
+    "naghugas",
+    "naghuhugas",
+    "maghuhugas",
+    "hinugasan",
+    "hinuhugasan",
+    "huhugasan"
+  ],
+  "catch (someone)": [
+    "huli",
+    "humuli",
+    "humuhuli",
+    "huhuli",
+    "hinuli",
+    "hinuhuli",
+    "huhulihin"
+  ],
+  "win": [
+    "wagi",
+    "nagwagi",
+    "nagwawagi",
+    "magwawagi",
+    "ipinagwagi",
+    "ipinapagwagi",
+    "ipapagwagi"
+  ],
+  "abuse": [
+    "abuso",
+    "umabuso",
+    "umaabuso",
+    "aabuso",
+    "inabuso",
+    "inaabuso",
+    "aabusuhin"
+  ],
+  "obey": [
+    "sunod",
+    "sumunod",
+    "sumusunod",
+    "susunod",
+    "sinunod",
+    "sinusunod",
+    "susunurin"
+  ],
+  "pray": [
+    "dasal",
+    "nagdasal",
+    "nagdadasal nagdarasal",
+    "magdadasal magdarasal",
+    "dinasal",
+    "dinadasal dinarasal",
+    "idadasal idarasal"
+  ],
+  "bite": [
+    "kagat",
+    "kumagat",
+    "kumakagat",
+    "kakagat",
+    "kinagat",
+    "kinakagat",
+    "kakagatin"
+  ],
+  "exit": [
+    "labas",
+    "lumabas",
+    "lumalabas",
+    "lalabas",
+    "nilabasan",
+    "nilalabasan",
+    "lalabasan"
+  ],
+  "report (something)": [
+    "ulat",
+    "nag-ulat",
+    "nag-uulat",
+    "mag-uulat",
+    "inulat",
+    "inuulat",
+    "iuulat"
+  ],
+  "sell": [
+    "benta",
+    "nagbenta",
+    "nagbebenta",
+    "magbebenta",
+    "ibinenta",
+    "ibinebenta",
+    "ibebenta"
+  ],
+  "dress (remove)": [
+    "hubad",
+    "naghubad",
+    "nahuhubad",
+    "maghuhubad",
+    "hinubad",
+    "hinuhubad",
+    "huhubarin"
+  ],
+  "move (transfer)": [
+    "lipat",
+    "lumipat",
+    "lumilipat",
+    "lilipat",
+    "nilipatan",
+    "nililipatan",
+    "lilipatan"
+  ],
+  "introduce (something)": [
+    "kita",
+    "nagpakita",
+    "nagpapakita",
+    "magpapakita",
+    "pinakita",
+    "pinapakita",
+    "ipapakita"
+  ],
+  "nap": [
+    "siesta",
+    "nagsiesta",
+    "nagsisiesta",
+    "magsisiesta",
+    "",
+    "",
+    ""
+  ],
+  "lie down": [
+    "higa",
+    "humiga",
+    "humihiga",
+    "hihiga",
+    "hinigaan",
+    "hinihigaan",
+    "hihigaan"
+  ],
+  "joke": [
+    "loko",
+    "nangloko nanloko",
+    "nangloloko nanloloko",
+    "mangloloko manloloko",
+    "niloko",
+    "niloloko",
+    "lolokohin"
+  ],
+  "clap": [
+    "palakpak",
+    "pumalakpak",
+    "pumapalakpak",
+    "papalakpak",
+    "pinalakpakan",
+    "pinapalakpakan",
+    "papalakpakan"
+  ],
+  "rub (skin)": [
+    "hagod",
+    "naghagod",
+    "naghahagod",
+    "maghahagod",
+    "hinagod",
+    "hinahagod",
+    "hahagurin"
+  ],
+  "bring (something)": [
+    "dala",
+    "nagdala",
+    "nagdadala",
+    "magdadala",
+    "dinala",
+    "dinadala",
+    "dadalhin"
+  ],
+  "occupy": [
+    "okupa",
+    "nag-okupa",
+    "nag-ookupa",
+    "mag-ookupa",
+    "inokupa",
+    "inookupa",
+    "ookupahin"
+  ],
+  "ask for (something)": [
+    "hingi",
+    "humingi",
+    "humihingi",
+    "hihingi",
+    "hiningi",
+    "hinihingi",
+    "hihingi"
+  ],
+  "forget (something)": [
+    "limot",
+    "nakalimot",
+    "nakakalimot",
+    "makakalimot",
+    "nakalimutan",
+    "nakakalimutan",
+    "malilituman"
+  ],
+  "join (game)": [
+    "sali",
+    "sumali",
+    "sumasali",
+    "sasali",
+    "sinalihan",
+    "sinasalihan",
+    "sasalihan"
+  ],
+  "measure (weight)": [
+    "timbang",
+    "nagtimbang",
+    "nagtitimbang",
+    "magtitimbang",
+    "tinimbang",
+    "tinitimbang",
+    "titimbangin"
+  ],
+  "revise (rework)": [
+    "ulit",
+    "nag-ulit",
+    "nag-uulit",
+    "mag-uulit",
+    "inulit",
+    "inuulit",
+    "uulitin"
+  ],
+  "absent": [
+    "liban",
+    "lumiban",
+    "lumiliban",
+    "liliban",
+    "nilibanan",
+    "nililibanan",
+    "lilibanan"
+  ],
+  "carry": [
+    "dala",
+    "nagdala",
+    "nagdadala",
+    "magdadala",
+    "dinala",
+    "dinadala",
+    "dadalhin"
+  ],
+  "cut (remove)": [
+    "tanggal",
+    "nagtanggal",
+    "nagtatanggal",
+    "magtatanggal",
+    "tinanggal",
+    "tinatanggal",
+    "tatanggalin"
+  ],
+  "die": [
+    "patay",
+    "namatay",
+    "namamatay",
+    "mamamatay",
+    "pinatay",
+    "pinapatay",
+    "papatayin"
+  ],
+  "hit (instrument)": [
+    "pukpok",
+    "namukpok",
+    "namumukpok",
+    "mamumukpok",
+    "pinukpok",
+    "pinupukpok",
+    "pupukpukin"
+  ],
+  "break (irreparable)": [
+    "wasak",
+    "nagwasak",
+    "nagwawasak",
+    "magwawasak",
+    "nawasak winasak",
+    "nawawasak winawasak",
+    "mawawasak wawasakin"
+  ],
+  "examine (analyze)": [
+    "suri",
+    "nagsuri",
+    "nagsusuri",
+    "magsusuri",
+    "sinuri",
+    "sinusuri",
+    "susuriin"
+  ],
+  "rent (general)": [
+    "renta",
+    "nagrenta",
+    "nagrerenta",
+    "magrerenta",
+    "nirenta",
+    "nirerenta",
+    "rerentahin"
+  ],
+  "go down": [
+    "baba",
+    "bumaba",
+    "bumababa",
+    "bababa",
+    "binaba",
+    "binababa",
+    "ibababa"
+  ],
+  "keep (save)": [
+    "tago",
+    "nagtago",
+    "nagtatago",
+    "magtatago",
+    "itinago",
+    "itinatago",
+    "itatago"
+  ],
+  "travel (visit)": [
+    "pasyal",
+    "namasyal",
+    "namamasyal",
+    "mamamasyal",
+    "pinasyalan",
+    "pinapasyalan",
+    "papasyalan"
+  ],
+  "travel (voyage)": [
+    "lakbay",
+    "naglakbay",
+    "naglalakbay",
+    "maglalakbay",
+    "nilakbay",
+    "nilalakbay",
+    "lalakbayin"
+  ],
+  "gamble": [
+    "sugal",
+    "nagsugal",
+    "nagsusugal",
+    "magsusugal",
+    "sinugal",
+    "sinusugal",
+    "isusugal"
+  ],
+  "move over (someone)": [
+    "usog",
+    "umusog",
+    "umuusog",
+    "uusog",
+    "",
+    "",
+    ""
+  ],
+  "divide": [
+    "hati",
+    "naghati",
+    "naghahati",
+    "maghahati",
+    "hinati",
+    "hinahati",
+    "hahatiin"
+  ],
+  "occur": [
+    "yari",
+    "nangyari",
+    "nangyayari",
+    "mangyayari",
+    "",
+    "",
+    ""
+  ],
+  "receive": [
+    "tanggap",
+    "tumanggap",
+    "tumatanggap",
+    "tatanggap",
+    "tinanggap",
+    "tinatanggap",
+    "tatanggapin"
+  ],
+  "rent (car)": [
+    "arkila",
+    "umarkila",
+    "umaarkila",
+    "aarkila",
+    "inarkila",
+    "inaarkila",
+    "aarkilahin"
+  ],
+  "climb": [
+    "akyat",
+    "umakyat",
+    "umaakyat",
+    "aakyat",
+    "inakyat",
+    "inaakyat",
+    "aakyatin"
+  ],
+  "work": [
+    "trabaho",
+    "nagtrabaho",
+    "nagtatrabaho",
+    "magtatrabaho",
+    "tinrabaho",
+    "tinatrabaho",
+    "tatrabahuin"
+  ],
+  "cut (tear off)": [
+    "punit",
+    "pumunit",
+    "pumupunit",
+    "pupunit",
+    "pinunit",
+    "pinupunit",
+    "pupunitin"
+  ],
+  "listen": [
+    "kinig",
+    "nakinig",
+    "nakikinig",
+    "makikinig",
+    "pinakinggan",
+    "pinapakinggan",
+    "papakinggan"
+  ],
+  "big (to become)": [
+    "laki",
+    "lumaki",
+    "lumalaki",
+    "lalaki",
+    "",
+    "",
+    ""
+  ],
+  "sort": [
+    "ayos",
+    "nag-ayos",
+    "nag-aayos",
+    "mag-aayos",
+    "inayos",
+    "inaayos",
+    "aayusin"
+  ],
+  "heal": [
+    "galing",
+    "gumaling",
+    "gumagaling",
+    "gagaling",
+    "iginaling",
+    "iginagaling",
+    "igagaling"
+  ],
+  "heat up (something)": [
+    "init",
+    "nag-init",
+    "nag-iinit",
+    "mag-iinit",
+    "ininit",
+    "iniinit",
+    "iinitin"
+  ],
+  "hug": [
+    "yakap",
+    "yumakap",
+    "yumayakap",
+    "yayakap",
+    "niyakap",
+    "niyayakap",
+    "yayakapin"
+  ],
+  "kill (slaughter)": [
+    "katay",
+    "nagkatay",
+    "nagkakatay",
+    "magkakatay",
+    "kinatay",
+    "kinakatay",
+    "kakatayin"
+  ],
+  "brush (hair)": [
+    "suklay (brush)",
+    "nagsuklay (nag-brush)",
+    "nagsusuklay (nagba-brush)",
+    "magsusuklay (magba-brush)",
+    "sinuklay (binrush)",
+    "sinusuklay (binabrush)",
+    "susuklayin (babrushin)"
+  ],
+  "quick (to make it)": [
+    "bilis",
+    "bumilis",
+    "bumibilis",
+    "bibilis",
+    "bilisan",
+    "binibilisan",
+    "bibilisan"
+  ],
+  "love (someone romantically)": [
+    "ibig",
+    "umibig",
+    "umiibig",
+    "iibig",
+    "inibig",
+    "iniibig",
+    "iibigin"
+  ],
+  "hang (clothes)": [
+    "sampay",
+    "nagsampay",
+    "nagsasampay",
+    "magsasampay",
+    "sinampay",
+    "sinasampay",
+    "isasampay"
+  ],
+  "take care (something)": [
+    "ingat",
+    "nag-ingat",
+    "nag-iingat",
+    "mag-iingat",
+    "iningatan",
+    "iniingatan",
+    "iingatan"
+  ],
+  "whistle": [
+    "sipol",
+    "sumipol",
+    "sumisipol",
+    "sisipol",
+    "sinipulan",
+    "sinisipulan",
+    "sisipulan"
+  ],
+  "wrap": [
+    "balot",
+    "nagbalot",
+    "nagbabalot",
+    "magbabalot",
+    "binalot",
+    "binabalot",
+    "babalutin"
+  ],
+  "drive": [
+    "maneho",
+    "nagmaneho",
+    "nagmamaneho",
+    "magmamaneho",
+    "minaneho",
+    "minamaneho",
+    "mamanehuin"
+  ],
+  "drop": [
+    "hulog",
+    "naghulog",
+    "naghuhulog",
+    "maghuhulog",
+    "hinulog",
+    "hinuhulog",
+    "ihuhulog"
+  ],
+  "write (something)": [
+    "sulat",
+    "nagsulat",
+    "nagsusulat",
+    "magsusulat",
+    "sinulat",
+    "sinusulat",
+    "isusulat"
+  ],
+  "acquire": [
+    "kuha",
+    "kumuha",
+    "kumukuha",
+    "kukuha",
+    "kinuha",
+    "kinukuha",
+    "kukuhain"
+  ],
+  "borrow (money)": [
+    "utang",
+    "umutang",
+    "umuutang",
+    "uutang",
+    "inutang",
+    "inuutang",
+    "uutangin"
+  ],
+  "know (someone)": [
+    "kilala",
+    "nakipag- kilala",
+    "nakikipag- kilala",
+    "makikipag- kilala",
+    "kinilala",
+    "kinikilala",
+    "kikilalanin"
+  ],
+  "deliver": [
+    "dala",
+    "nagdala",
+    "nagdadala",
+    "magdadala",
+    "dinala",
+    "dinadala",
+    "dadalhin"
+  ],
+  "hit on/at (someone)": [
+    "tira",
+    "tumira",
+    "tumitira",
+    "titira",
+    "tinira",
+    "tinitira",
+    "titirahin"
+  ],
+  "hurry (to be)": [
+    "dali",
+    "nagmadali",
+    "nagmamadali",
+    "magmamadali",
+    "minadali",
+    "minamadali",
+    "mamadaliin"
+  ],
+  "copy": [
+    "kopya",
+    "kumopya",
+    "kumokopya",
+    "kokopya",
+    "kinopya",
+    "kinokopya",
+    "kokopyahin"
+  ],
+  "hear (someone)": [
+    "kinig",
+    "nakinig",
+    "nakikinig",
+    "makikinig",
+    "pinakinggan",
+    "pinapakinggan",
+    "papakinggan"
+  ],
+  "enjoy": [
+    "saya",
+    "nagsaya (nag-enjoy)",
+    "nagsasaya (nage-enjoy)",
+    "magsasaya (mage-enjoy)",
+    "pinagsayahan (in-enjoy)",
+    "pinagsasayahan (ine-enjoy)",
+    "pagsasayahan (e-enjoy-in)"
+  ],
+  "breathe": [
+    "hinga",
+    "huminga",
+    "humihinga",
+    "hihinga",
+    "",
+    "",
+    ""
+  ],
+  "fish": [
+    "isda",
+    "nangisda",
+    "nangingisda",
+    "mangisda",
+    "",
+    "",
+    ""
+  ],
+  "big (to make it)": [
+    "laki",
+    "",
+    "",
+    "",
+    "nilakihan",
+    "nilalakihan",
+    "lalakihan"
+  ],
+  "advance (forward)": [
+    "sulong",
+    "sumulong",
+    "sumusulong",
+    "susulong",
+    "sinulong",
+    "sinusulong",
+    "susulungin"
+  ],
+  "carry (underarm)": [
+    "kipkip",
+    "nagkipkip",
+    "nagkikipkip",
+    "magkikipkip",
+    "kinipkip",
+    "kinikipkip",
+    "kikipkipin"
+  ],
+  "destroy (character)": [
+    "sira",
+    "nanira",
+    "naninira",
+    "maninira",
+    "siniraan",
+    "sinisiraan",
+    "sisiraan"
+  ],
+  "enter (a place)": [
+    "pasok",
+    "pumasok",
+    "pumapasok",
+    "papasok",
+    "pinasok",
+    "pinapasok",
+    "papasukin"
+  ],
+  "lie (tell a lie)": [
+    "sinungaling",
+    "nag- sinungaling",
+    "nag- sisinungaling",
+    "mag- sisinungaling",
+    "sinu- ngalingan",
+    "sinisinu- ngalingan",
+    "sisinu- ngalingan"
+  ],
+  "hand (to use it)": [
+    "kamay",
+    "nagkamay",
+    "nagkakamay",
+    "magkakamay",
+    "kinamay",
+    "kinakamay",
+    "kakamayin"
+  ],
+  "cover": [
+    "takip",
+    "nagtakip",
+    "nagtatakip",
+    "magtatakip",
+    "tinakpan",
+    "tinatakpan",
+    "tatakpan"
+  ],
+  "fever (to have)": [
+    "lagnat",
+    "",
+    "",
+    "",
+    "nilagnat",
+    "nilalagnat",
+    "lalagnatin"
+  ],
+  "go on": [
+    "tuloy",
+    "tumuloy",
+    "tumutuloy",
+    "tutuloy",
+    "tinuluyan",
+    "tinutuluyan",
+    "tutuluyan"
+  ],
+  "carry (with arm)": [
+    "bitbit",
+    "nagbitbit",
+    "nagbibitbit",
+    "magbibitbit",
+    "binitbit",
+    "binibitbit",
+    "bibitbitin"
+  ],
+  "paint (art)": [
+    "pinta",
+    "nagpinta",
+    "nagpipinta",
+    "magpipinta",
+    "ipininta",
+    "ipinipinta",
+    "pipintahin"
+  ],
+  "pick up (something)": [
+    "dampot",
+    "dumampot",
+    "dumadampot dumarampot",
+    "dadampot darampot",
+    "dinampot",
+    "dinadampot dinarampot",
+    "dadamputin daramputin"
+  ],
+  "angry (to be angry)": [
+    "galit",
+    "nagalit",
+    "nagagalit",
+    "magagalit",
+    "ikinagalit",
+    "ikinakagalit",
+    "ikakagalit"
+  ],
+  "pick up (someone)": [
+    "sundo",
+    "nagsundo",
+    "nagsusundo",
+    "magsusundo",
+    "sinundo",
+    "sinusundo",
+    "susunduin"
+  ],
+  "plant": [
+    "tanim",
+    "nagtanim",
+    "nagtatanim",
+    "magtatanim",
+    "tinanim",
+    "tinatanim",
+    "itatanim"
+  ],
+  "play (game)": [
+    "laro",
+    "naglagro",
+    "naglalaro",
+    "maglalaro",
+    "nilaro",
+    "nilalaro",
+    "lalaruin"
+  ],
+  "full (with food)": [
+    "busog",
+    "nabusog",
+    "nabubusog",
+    "mabubusog",
+    "",
+    "",
+    ""
+  ],
+  "pour": [
+    "buhos",
+    "nagbuhos",
+    "nagbubuhos",
+    "magbubuhos",
+    "binuhos",
+    "binubuhos",
+    "ibubuhos"
+  ],
+  "sign (to give a sign)": [
+    "senyas",
+    "sumenyas",
+    "sumesenyas",
+    "sesenyas",
+    "sinenyasan",
+    "sinesenyasan",
+    "sesenyasan"
+  ],
+  "stop": [
+    "hinto",
+    "huminto",
+    "humihinto",
+    "hihinto",
+    "hinintuan",
+    "hinihintuan",
+    "hihintuan"
+  ],
+  "forget (someone)": [
+    "limot",
+    "lumimot",
+    "lumilimot",
+    "lilimot",
+    "nilimot",
+    "nililimot",
+    "lilimutin"
+  ]
+}

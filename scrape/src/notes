@@ -1,0 +1,36 @@
+   // Step-by-Step Guide:
+    // 
+    // 1. Set Up Your Development Environment:
+    //    - Install Rust from rust-lang.org if you haven't done so.
+    //    - Create a new project using Cargo with 'cargo new web_scraper'.
+    //    - Navigate to the project directory.
+    //
+    // 2. Add Dependencies:
+    //    - Add the following dependencies in Cargo.toml:
+    //      reqwest, scraper, tokio.
+    //    - These will help make HTTP requests, parse HTML, and handle asynchronous operations.
+    //
+    // 3. Write the Main Program:
+    //    - Import necessary modules: reqwest, scraper, and tokio.
+    //    - Structure the main function with async support.
+    //    - Send an HTTP request using reqwest::get() and handle the response.
+    //    - Parse HTML using scraper's Html and Selector.
+    //    - Extract relevant data (like verbs and conjugations).
+    //
+    // 4. Key Rust Concepts:
+    //    - Learn error handling using Result and Box<dyn Error>.
+    //    - Understand asynchronous programming in Rust with async/await and the tokio crate.
+    //    - Use CSS-style selectors to parse HTML effectively with scraper.
+    //
+    // 5. Run the Program:
+    //    - Use 'cargo run' to execute the program.
+    //
+    // 6. Practice and Experiment:
+    //    - Modify selectors, handle errors more gracefully, and try saving data to a file.
+    //
+    // 7. Learning Resources:
+    //    - Consult 'The Rust Programming Language Book' for a deep understanding of Rust.
+    //    - Check out the Tokio tutorial for more on async programming.
+    //    - Search for web scraping tutorials in Rust to enhance your understanding.
+
+    // URL of the website
